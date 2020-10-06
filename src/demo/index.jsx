@@ -90,6 +90,7 @@ class Demo extends Component {
                 onChange={this.handleChange}
                 min={minLength}
                 max={maxLength}
+                {'Hi'}
               />
             </label>
           </div>
